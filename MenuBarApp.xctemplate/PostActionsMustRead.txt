@@ -1,0 +1,6 @@
+1. Add packages:
+https://github.com/Krusty84/ElegantTabs
+https://github.com/sindresorhus/LaunchAtLogin-Modern
+
+2. Set Yes for "Application is agent (UIElement) aka LSUIElement" in Project/Targets/Info/Custom macOS Application Target Properties
+3. Check Sandbox Mode (it should be enabled)
