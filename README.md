@@ -1,0 +1,1 @@
+# Xcode-MenuBarApp-SwiftUI-macOS-ProjectTemplate
