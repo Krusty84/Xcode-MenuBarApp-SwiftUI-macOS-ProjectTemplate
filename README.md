@@ -1,6 +1,10 @@
 # Xcode-MenuBarApp-SwiftUI-macOS-ProjectTemplate
 
-A simple Xcode file template with examples for settings UI and async services.
+A small template for a project to create macOS applications for placement in the MenuBar (a la System Tray for those coming from the Windows world).
+
+Template includes: Project structure, and small snippets: checking internet access, converting time formats, a mechanism for saving settings, autorun, etc.
+
+<img width="819" alt="image" src="https://github.com/user-attachments/assets/0f0444b1-dcd5-4228-bb90-885c32de16e4" />
 
 ## Installation
 
