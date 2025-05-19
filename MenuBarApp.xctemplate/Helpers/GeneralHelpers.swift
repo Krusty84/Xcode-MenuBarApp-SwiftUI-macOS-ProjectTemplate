@@ -21,6 +21,17 @@ class Helpers:ObservableObject {
     deinit {
     }
     
+    /**
+
+     ## Don't forget to add the `LoggerHelper` dependency if you need it:
+
+     1. Click File → Add Packages…
+     2. In the search box in the upper right, enter:
+        https://github.com/Krusty84/LoggerHelper
+     3. Click Add Package
+     4. Click Add Package, again
+
+     */
     
     static func convertGMTToLocalTime(utcDateString: String) -> String {
         // Define possible date formats

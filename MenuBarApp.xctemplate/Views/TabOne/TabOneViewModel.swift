@@ -7,7 +7,7 @@
 
 import Foundation
 
-class ExampleViewModel: ObservableObject {
+class TabOneViewModel: ObservableObject {
     @Published var title: String = "Hello, SwiftUI!"
 
     func changeTitle() {

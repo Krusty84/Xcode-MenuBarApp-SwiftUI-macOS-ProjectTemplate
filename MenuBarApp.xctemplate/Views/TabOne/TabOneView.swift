@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct TabOneContent: View {
-    @StateObject private var viewModel = ExampleViewModel()
+    @StateObject private var viewModel = TabOneViewModel()
 
     var body: some View {
         VStack(spacing: 16) {

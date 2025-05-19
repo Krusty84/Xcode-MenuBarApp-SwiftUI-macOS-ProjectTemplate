@@ -32,6 +32,6 @@ struct MainWindow: View {
                   TabItem(title: "About", icon: .system(name: "info")) {
                       AboutTabContent()
                   }
-              }
+        }.frame(width: 800, height: 400)
     }
 }

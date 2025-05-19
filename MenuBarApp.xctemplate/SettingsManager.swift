@@ -12,8 +12,8 @@ class SettingsManager {
     private let defaults = UserDefaults.standard
 
     // Keys
-    private let appLoggingEnabledKey = "___PRODUCTBUNDLEIDENTIFIER___.settings.appLoggingEnabled"
-    private let usernameKey            = "___PRODUCTBUNDLEIDENTIFIER___.settings.username"
+    private let appLoggingEnabledKey = "___PRODUCT_BUNDLE_IDENTIFIER___.settings.appLoggingEnabled"
+    private let usernameKey            = "___PRODUCT_BUNDLE_IDENTIFIER___.settings.username"
 
     // MARK: – App Logging
     var appLoggingEnabled: Bool {
